@@ -1,5 +1,5 @@
 {
-  "Framework": "AWS-Account-Security-Onboarding",
+  "Framework": "AWS-Account-Security-Onboarding Prowler",
   "Version": "",
   "Provider": "AWS",
   "Description": "Checklist when onboarding new AWS Accounts to existing AWS Organization.",
